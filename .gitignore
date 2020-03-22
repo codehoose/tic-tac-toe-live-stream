@@ -1,3 +1,5 @@
 TicTacToe/.vs
 TicTacToe/**/bin
 TicTacToe/**/obj
+Unity/**/Library
+Unity/**/.vs
